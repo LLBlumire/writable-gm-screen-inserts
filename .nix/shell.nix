@@ -1,4 +1,4 @@
 { pkgs }:
 pkgs.mkShell {
-    buildInputs = with pkgs; [ typst ];
+    inputsFrom = import ./package.nix { inherit pkgs; };
 }

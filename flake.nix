@@ -19,6 +19,9 @@
           devShells = {
             default = import ./.nix/shell.nix { inherit pkgs; };
           };
+          packages = {
+            default = import ./.nix/package.nix { inherit pkgs; };
+          };
         });
       flake = flake-utils.lib.eachSystem buildSystems mkFlake;
     in
