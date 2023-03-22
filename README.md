@@ -1,4 +1,4 @@
-<div style="text-align:center;>
+<div align="center">
 
 # Writable Game Master Screen Inserts
 
