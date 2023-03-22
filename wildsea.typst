@@ -1,0 +1,335 @@
+#set page(paper: "a4", flipped: true, margin: 15mm)
+#set text(size: 12pt)
+#set columns(gutter: 5mm)
+#set block(spacing: 1em)
+#show heading: set text(fill: rgb("#5e7b36"))
+#show: rest => columns(3, rest)
+
+= Edges
+
+_Give 1d_
+
+Grace: elegance, precision, agillity
+
+Iron: Force, determination, willpower
+
+Instinct: Sense, intuition, reaction
+
+Sharps: Logic, wit, planning
+
+Teeth: Savagery, passion, destruction
+
+Tides: Exploration, learning, lore
+
+Veils: Shadows, ciphers, secrecy
+
+
+= Languages
+
+_Gives up to 3d; #linebreak() 1d = Smattering, 2d = Knowledge, 3d = Fluency_
+
+Low Sour: Mongrel, common
+
+Chthonic: Ancient, human
+
+Saprekk: Thick, rolling, ektus
+
+Gaudimm: Clicks, twitches, pheremones, gau
+
+Knock: Hissing, chittering, tzelicrae
+
+Brasstongue: Clipped, precise, trader
+
+Raka Spit: Rapid patter, hunters, leviatheneers
+
+Lyre-Bite: Lilting, poets, songwriters
+
+Old Hand: Sign language
+
+Signalling: Flags, flares, signal lamps, code
+
+Highvin: Primarily written, pre-verdant ruins
+
+#colbreak()
+
+= Skills
+
+_Gives up to 3d_
+
+Brace: Defend, determination, immobility
+
+Break: Destroy, smash, demolish
+
+Concoct: Reactions, crezzerin
+
+Cook: Spices, sustenance, heat
+
+Delve: Explore, locks/traps, the past
+
+Flourish: Showmanship, performance, art
+
+Hack: Chop, plant hazards, spin tales
+
+Harvest: Forage, identify plants, nurture
+
+Hunt: Observe, track, shoot, butcher
+
+Outwit: Sneak, infiltrate, deceive
+
+Rattle: Mend, maintain, invent
+
+Scavenge: Locate, collect, identify value
+
+Sense: Detect, intuit, react
+
+Study: Discover, record, interpret, decipher
+
+Sway: Convince, argue, threaten
+
+Tend: Heal, calm, beasts, grow
+
+Vault: Climb, leap, dodge, tumble
+
+Wavewalk: Brachiate, swing, navigage
+
+= Advantage
+
+_Gain up to 2d_
+
+Gain from the environment, resources, aspects, favourable sitautions, or
+helpful assistance.
+
+#colbreak()
+
+= Cut
+_Lose dice after the roll_
+
+Difficulty: The challenge is particularly hard
+
+Precision: To aim at a specific location or part
+
+Impact: Gain extra impact, request before rolling
+
+Mire: Cuts one on contrary actions per mark
+
+= Impact
+_Determine before rolling_
+
+Low: weaker/has less effect
+
+Normal: most actions, marks one box
+
+High: Strong/has more effect, marks two boxes
+
+Massive: Hugely potent, marks all boxes
+
+= Reading The Dice
+
+Roll the entire dice pool, discard the highest dice for every cut, and note the
+highest dice which remains as the result, and if you have doubles (a twist!)
+
+= Rolling With 0d
+
+If you have 0d to draw from, somehow, roll 1d and count Triumphs as Conflicts.
+
+= Helping Hands
+
+Two crewmembers working together may both contribute to the dice pool. Both are
+affected by any negatives taht result.
+
+#colbreak()
+
+= Results
+
+*Action*
+ - Triumph: Success, mark or clear one box
+ - Conflict: As triumph, with a drawback
+ - Disaster: Narrative complication or drawback
+ - Twists: Add a small bonus, player chooses
+
+*Attack*
+ - Triumph: Deal damage plus extra effect
+ - Conflict: As triumph, also suffer downside
+ - Disaster: Misses, also suffer downside
+ - Twists: Critical hit, increase impact
+
+*Defence*
+ - Triumph: Avoid threat completely
+ - Conflict: Suffer a small downside
+ - Disaster: Take damage and suffer downside
+ - Twists: Counter with a mark of damage
+
+*Acquisition*
+ - Triumph: Gain solid untainted resource
+ - Conflict: Gain resource with negative tag
+ - Disaster: Resource not found or ruined
+ - Twists: Resource has unique/positive tag
+
+*Creation*
+ - Triumph: Recipient gains 3-track benefit
+ - Conflict: 2-track with downside or 1-track
+ - Disaster: No benefit, but may be for flavour
+ - Twist: Has additional small unexpected benefit
+
+*Recovery*
+ - Triumph: Heal two marks from track
+ - Conflict: Heal one mark from track
+ - Disaster: Add extra mark to track
+ - Twist: Does not consume resource used
+
+*Ratings*
+ - Triumph: Bypass obstacle safely
+ - Conflict: As triumph, one rating damage
+ - Disaster: Fail to bypass, one damage
+ - Twist: Unexpected event
+
+*Watch* _see journeys on screen_
+ - Triumph: Peace
+ - Conflict: Order
+ - Disaster: Nature
+
+*Weather* _see journeys on screen_
+ - Triumph: Clear skies
+ - Conflict: Continuation
+ - Disaster: Change for the worse
+
+= Montages
+
+*Exploration* _often sets up the next scene_
+
+*Acquisition* _use Acquisition Results_
+ - Savenging: With salvage
+ - Hunting: With specimens
+ - Gathering: With specimens
+
+*Recovery* _use Recovery Results_
+ - Healing: With specimens on traits and animals
+ - Repairing: With salvage on gear or mechanics
+ - Relaxing: With whisper on mires
+
+*Creation* _use Creation Results_
+ - Concocting: With 2 resources for a potion
+ - Cooking: With 2 specimens for a full meal
+ - Crafting: With 2 salvage for temporary gear
+
+*Milestone Project* _At most 3 marks at once_
+ - Minor milestones: contributes 1 mark
+ - Major milestone: contributes 3 marks
+
+#colbreak()
+
+= Combat
+_full rules on page 54_
+
+*Damage Types*
+ - Blunt: Crushing --- stun and break
+ - Keen: Cutting --- slice and bleed
+ - Spike: Piercing --- pentrate and impale
+ - Hewing: Chopping --- split and break
+ - Serrated: Sawing --- rip and tear
+ - Toxin: Poison --- sicken and confuse
+ - Acid: Corrosive --- melt and sear
+ - Blast: Explosive --- stun and shatter
+ - Volt: Electrical --- shock and paralyze
+ - Frost: Cold --- slow and freeze
+ - Salt: Crystalline --- dry and banish
+ - Flame: Burning --- melt and inspire fear
+
+*Weakness* doubles marks
+
+*Resistance* halves marks
+
+*Immunity* negates marks
+
+*Range* using a weapon at a range its not designed for cuts one from your roll.
+
+*Damage* _player chooses aspect marked_
+ - Failed or basic attacks, hazards: 1--2 marks.
+ - Powerful attacks & severe hazards: 3--4 marks.
+ - Elite attacks & rionous hazards: 5--6 marks.
+
+*Injuries* _typically 3-mark tracks_
+ - Force cuts on some actions
+ - Take away a skill or sense
+ - Add negative effects to some actions
+
+#colbreak()
+
+= Journeys
+
+*Step 1: Departure*#linebreak()
+ + Choose your journies destination
+ + Handle preparations for your journey, this can be done as a montage, scene,
+   or as a simple checklist
+ + Create tracks for the journey
+    - Progress for duration (avg. 4--8)
+    - Risk for encroaching danger (3)
+    - Pathfinding for map making (3)
+    - Riot for potential mutiny (3)
+
+*Step 2: Crewmates Choose Stations*
+ - At the helm (required), set the speed
+ - On watch (required), roll for encounters
+ - Tending the engine, overload to go faster
+ - Cartographizing, creating new charts
+ - Watching the weahter, to know what's coming
+
+*Step 3: Make Progress*
+
+Time passes, describe a narratively appropriate passage of time. This is not
+linked to progress, and simply sets the tone of the story. Days may pass with
+nothing happening, or troubles may come one after the next.
+
+Mark progress track, whoever is *at the helm* decides between:
+
+ - Cut A Path: 1 mark, can avoid encounters
+ - Forge Ahead: 2 marks, little time to react
+ - Drop Anchor: 0 marks, take a montage
+
+#colbreak()
+
+Whoever is *on watch* may choose to make a discovery or a watch roll:
+
+For a _discovery_, trade a whisper and a chart to influence the story _rules on page 74_.
+
+For a _watch roll_, player rolls 1d for _Watch Results_.
+
+ - Peace examples: Montage, meeting, tall tale (gain a whisper), tree shanty,
+   undercrew issue, reflection (heal mire)
+ - Order examples: Nearby ship, outpost, survivor needing rescue, wreck or
+   ruin, cache of cargo supplies, conspiracy
+ - Nature: weather, natural feature, wonder (heal mire), horror, unsettled landfall, true wilds
+
+The firefly rolls 1d for danger, or 2d if travelling with a chart.
+ - Triumph: No danger, only oppertunity
+ - Conflict: Hazardous encounter with payoff
+ - Disaster: Immediate danger, no reward
+
+If someone is *tending the engine*, they may tend to the engine, overload the engine, or muffle the engine. Tending to the engine lets you hijack focus if something effects the engine to attempt an instant fix or bypass. Overloading the engine lets you increase impact when evading, or add one extra box on the Journey track. Muffling the engine consumes a resource and increases impact on a roll made to hide or escape without being noticed.
+
+If someone is *cartographizing* they may mark the pathfinding track with encountered landmarks.
+
+*Step 4: Update The Weather*
+
+If someone is *watching the weather*, they may roll 1d and look at _Weather Results_, if nobody is the firefly should do this. This sets what the whether will become after the next progress mark, players may wish to change course to avoid a storm, or make early preparations.
+
+= Focus Tracker
+_fill in A and R to track focus sharing_
+
+#table(
+    inset: 1mm,
+    columns: (auto,auto,auto,auto,auto,auto,auto,auto),
+    align: horizon,
+    stroke: none,
+    square(),circle(),circle(),circle(),circle(),circle(),circle(),circle(),
+    square(),circle(),circle(),circle(),circle(),circle(),circle(),circle(),
+    square(),circle(),circle(),circle(),circle(),circle(),circle(),circle(),
+    square(),circle(),circle(),circle(),circle(),circle(),circle(),circle(),
+    square(),circle(),circle(),circle(),circle(),circle(),circle(),circle(),
+    square(),circle(),circle(),circle(),circle(),circle(),circle(),circle(),
+    square(),circle(),circle(),circle(),circle(),circle(),circle(),circle(),
+    square(),circle(),circle(),circle(),circle(),circle(),circle(),circle(),
+    square(),circle(),circle(),circle(),circle(),circle(),circle(),circle(),
+    square(),circle(),circle(),circle(),circle(),circle(),circle(),circle(),
+    square(),circle(),circle(),circle(),circle(),circle(),circle(),circle(),
+)
