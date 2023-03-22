@@ -12,8 +12,8 @@ on the screen, such as [The Game Master Screen by Wyrmwood][ww], there are
 many more possibilities.
 
 This repository contains [typst markup files][typst] which generate a such
-interactable GM screen inserts. Builds can be found by clicking "Download PDFs",
-or navigating to the [releases][Link] page.
+interactable GM screen inserts. Builds can be found by clicking "Download
+PDFs", or navigating to the [releases][Link] page.
 
 <div align="center">
 
